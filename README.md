@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello!, I am Ishika</h1>
+<h1>Hello! I am Ishika</h1>
 
 ### 📬 Connect With Me At
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/equating1729/)](https://github.com/equating1729) 
