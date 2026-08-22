@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ### 📬 Connect With Me At
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/equating1729/)](https://github.com/equating1729) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishika-garg2507/)](https://www.linkedin.com/in/ishika-garg2507/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail&link=mail@gargishika1213@gmail.com)](mailto:gargishika1213@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
